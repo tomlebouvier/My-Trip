@@ -1,0 +1,21 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css"); 
+ 
+
+
+ h1, h2, h3 {
+ 	font-family: 'Roboto'; 
+ 	font-weight: bold; 
+ 	text-align: center;
+ 	font-size: 40px;
+ 	font-family: 'Arial';
+ }
+
+ a {
+ 	display: block;
+ 	text-decoration: none;
+ 	font-family: 'Helvetica';
+ }
+
